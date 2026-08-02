@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>GUST Revenue Cycle Management</title>
+
+    <meta name="description" content="GUST Revenue Cycle Management provides Medical Coding, Clinical Documentation Integrity (CDI), Coding Audits, and Consulting Services.">
+
+    https://fonts.googleapis.com
+    https://fonts.gstatic.com
+    https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --navy: #003B82;
+            --gold: #D99A00;
+            --light: #F8F9FB;
+            --text: #4B5563;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--light);
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 1000px;
+            width: 100%;
+        }
+
+        .logo {
+            max-width: 850px;
+            width: 100%;
+            height: auto;
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            color: var(--navy);
+            font-size: 2.75rem;
+            margin-bottom: 15px;
+        }
+
+        .divider {
+            width: 120px;
+            height: 4px;
+            background: var(--gold);
+            margin: 25px auto;
+            border-radius: 2px;
+        }
+
+        .subtitle {
+            color: var(--navy);
+            font-size: 1.15rem;
+            line-height: 1.8;
+            margin-bottom: 25px;
+        }
+
+        .description {
+            max-width: 800px;
+            margin: 0 auto;
+            color: var(--text);
+            font-size: 1.05rem;
+            line-height: 1.8;
+        }
+
+        .button {
+            display: inline-block;
+            margin-top: 35px;
+            background: var(--gold);
+            color: #ffffff;
+            text-decoration: none;
+            padding: 14px 32px;
+            border-radius: 8px;
+            transition: 0.3s ease;
+        }
+
+        .button:hover {
+            background: #c18800;
+        }
+
+        .footer {
+            margin-top: 40px;
+            color: var(--text);
+            font-size: 0.95rem;
+            line-height: 1.8;
+        }
+
+        .footer a {
+            color: var(--navy);
+            text-decoration: none;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .subtitle {
+                font-size: 1rem;
+            }
+
+            .description {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        " alt="GUST Revenue Cycle Management" class="logo">
+
+        <h1>Website Coming Soon</h1>
+
+        <div class="divider"></div>
+
+        <p class="subtitle">
+            Medical Coding • Clinical Documentation Integrity (CDI) • Coding Audits • Consulting Services
+        </p>
+
+        <p class="description">
+            GUST Revenue Cycle Management helps healthcare organizations improve
+            coding accuracy, strengthen clinical documentation, optimize revenue
+            performance, and support regulatory compliance through expert Medical
+            Coding, Clinical Documentation Integrity (CDI), Coding Audits, and
+            Revenue Cycle Consulting services.
+            <br><br>
+            Our full website is currently under development and will be launching soon.
+        </p>
+
+        info@gustrcm.com?subject=Website Inquiry
+
+        <div class="footer">
+            <a href="mailto:info@gustrcm.com">info@gustrcm.com</a>
+            <br><br>
+            Accurate Coding • Stronger Documentation • Optimized Revenue • Better Care
+        </div>
+
+    </div>
+
+</body>
+</html>
